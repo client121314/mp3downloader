@@ -1,4 +1,6 @@
 {
+"api":[
+      {
 "Ads":"true",
 "qureka":"true",
 "ads_count":"3";
@@ -6,4 +8,6 @@
 "mpB":"/21753324030,22780110330/com.tiktictick.videoplayer.musicplayer.player_Banner",
 "mpN":"/21753324030,22780110330/com.tiktictick.videoplayer.musicplayer.player_Native",
 "mpO":"/21753324030,22780110330/com.tiktictick.videoplayer.musicplayer.player_AppOpen"
+}
+]
 }
