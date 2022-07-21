@@ -1,0 +1,27 @@
+{
+   "AppSetting":[
+      {
+         "id":"",
+         "app_version":1,
+         "app_link":"",
+         "ad_type":"AdMOB",
+         "ad_status":"on",
+         "admob_aap_id":"",
+         "admob_openad":"/229445249,22677682561/DWTag-DFPNew_RS88_videodownloader_DKInfoTech_AppOpen_300622_InApp",
+         "admob_inter":"/229445249,22677682561/DWTag-DFPNew_RS88_videodownloader_DKInfoTech_Interstitial_300622_InApp",
+         "admob_inter1":"/229445249,22677682561/DWTag-DFPNew_RS88_videodownloader_DKInfoTech_Interstitial_300622_InApp",
+         "admob_back_inter":"/229445249,22677682561/DWTag-DFPNew_RS88_videodownloader_DKInfoTech_Interstitial_300622_InApp",
+         "admob_back_inter1":"/229445249,22677682561/DWTag-DFPNew_RS88_videodownloader_DKInfoTech_Interstitial_300622_InApp",
+         "admob_banner":"/229445249,22677682561/DWTag-DFPNew_RS88_videodownloader_DKInfoTech_Banner_300622_InApp",
+         "admob_native":"/229445249,22677682561/DWTag-DFPNew_RS88_videodownloader_DKInfoTech_Native_300622_InApp",
+         "admob_native_banner":"/229445249,22677682561/DWTag-DFPNew_RS88_videodownloader_DKInfoTech_Native_300622_InApp",
+         "qureka_link":"https://1373.win.qureka.com",
+         "MGL_link":"https://sites.google.com/view/dkapps/home",
+         "PredictionChamp_link":"https://409.go.predchamp.com",
+         "admobrewardedads":"/6499/example/rewarded",
+         "firstscreen":"false",
+         "secondscreen":"false",
+         "isSplash":"false"
+      }
+   ]
+}
